@@ -16,7 +16,7 @@
   },
   "dependencies" : {
     "directory": "0.0.x", 
-    "mongoose": "~2.4.10"
+    "mongoose": ">=2.7.0"
   },
   "devDependencies" : {
     "mocha": "~0.10.0"
